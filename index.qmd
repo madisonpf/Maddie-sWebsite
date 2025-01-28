@@ -1,11 +1,22 @@
 ---
-title: "Maddie'sWebsite"
+title: "Madison Pfau"
+image: IMG_1773.jpeg
+toc: false
+about: 
+  template: broadside
+  image-shape: rectangle
+  image-width: 17em
+  links:
+    - text: GitHub
+      href: https://github.com/madisonpf
+    - text: Email
+      href: mapfau@ucsc.edu
 ---
 
-This is a Quarto website.
+Hi!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+My name is Madison and I am a PhD student in the Beltran Lab at UC Santa Cruz.
 
 ```{r}
-1 + 1
+1 + 1 
 ```
